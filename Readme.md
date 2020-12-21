@@ -19,8 +19,8 @@ Team Members
   * Training/Validation Split
   * Feature Engineering
   * Model Training ( XGBoost, AUC performance metric)
-  * Validation
-  * Results
+  * Validation Strategies
+  * Results & Model Performance
 3. Clinical Relevance of the Model
 3. [Acknowledgments](#acknowledgments)
 
