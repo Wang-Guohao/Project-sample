@@ -5,7 +5,7 @@
 
 1. [Problem](#Problem)
 1. [Our Solution](#Our-Solution)
-Data pre-processing
+Data Pre-processing
 1. [The architecture](#the-architecture)
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
