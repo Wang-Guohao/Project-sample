@@ -7,9 +7,14 @@ Team Members
 1. [Problem](#Problem)
 2. [Our Solution](#Our-Solution)
   * Study Design
-     *
+     * Identify clinical goal (Predict Cancer Onset)
+     * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
+     * Participant inclusion/exclusion criteria (all gender, subset of columns)
   * Data Management 
-     * Data Pre-processing (transformations, methids for removing and selection of outliers, methods for poor quality or missing data, descriptibe statistics)
+     * Data Pre-processing/ Cleansing/Transformations
+      * methods for removing and selection of outliers
+      * methods for poor quality or missing data
+      * Descriptibe statistics
   * Exploratory Analysis
   * Training/Validation Split
   * Feature Engineering
