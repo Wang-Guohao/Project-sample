@@ -4,12 +4,12 @@
 ## Contents
 
 1. [Problem](#Problem)
-1. [Our Solution](#Our-Solution)
+2. [Our Solution](#Our-Solution)
   * Data Pre-processing
   * Model Training
   * Validation
   * Results
-1. [Acknowledgments](#acknowledgments)
+3. [Acknowledgments](#acknowledgments)
 
 ## Problem
 
