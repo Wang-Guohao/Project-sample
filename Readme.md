@@ -18,7 +18,7 @@ Team Members
   * Exploratory Analysis
   * Training/Validation Split
   * Feature Engineering
-  * Model Training ( XGBoost, AUC performance metric)
+  * Model Training ( XGBoost, Logistic Regression AUC performance metric)
   * Validation Strategies
   * Results & Model Performance
 3. Clinical Relevance of the Model
