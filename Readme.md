@@ -22,7 +22,7 @@ Team Members
   * Model Training ( XGBoost, Logistic Regression AUC performance metric)
   * Validation Strategies
   * Results & Model Performance
-* [Clinical Relevance of the Model](#Clinical Relevance of the Model)
+* [Clinical Relevance of the Model](#Clinical_Relevance_of_the_Model)
 * [Acknowledgments](#acknowledgments)
 
 #### Problem
@@ -31,6 +31,6 @@ Team Members
 
 #### Our-Solution
 
-#### Clinical Relevance of the Model
+#### Clinical_Relevance_of_the_Model
 
 #### Acknowledgments
