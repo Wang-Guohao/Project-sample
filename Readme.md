@@ -1,8 +1,8 @@
-# Submission name
+### Submission name
 
 Team Members
 
-## Contents
+### Contents
 
 * [Problem](#Problem)
 * [Our Solution](#Our-Solution)
