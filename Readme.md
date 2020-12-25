@@ -4,8 +4,8 @@ Team Members
 
 ## Contents
 
-1. [Problem](#Problem)
-2. [Our Solution](#Our-Solution)
+* [Problem](#Problem)
+* [Our Solution](#Our-Solution)
   * Study Design
      * Identify clinical goal (Predict Cancer Onset)
      * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
@@ -21,8 +21,8 @@ Team Members
   * Model Training ( XGBoost, Logistic Regression AUC performance metric)
   * Validation Strategies
   * Results & Model Performance
-3. Clinical Relevance of the Model
-3. [Acknowledgments](#acknowledgments)
+* Clinical Relevance of the Model
+* [Acknowledgments](#acknowledgments)
 
 ## Problem
 
