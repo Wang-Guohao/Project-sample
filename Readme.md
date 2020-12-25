@@ -7,7 +7,7 @@ Team Members
 * [Problem](#Problem)
 * [Solution Video](#Solution-Video)
 * [Our Solution](#Our-Solution)
-  * [Study Design] (#Study Design)
+  * [Study Design] (#Study-Design)
      * Identify clinical goal (Predict Cancer Onset)
      * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
      * Participant inclusion/exclusion criteria (all gender, subset of columns)
