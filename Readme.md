@@ -12,8 +12,8 @@ Team Members
      * Participant inclusion/exclusion criteria (all gender, subset of columns)
   * Data Management 
      * Data Pre-processing/ Cleansing/Transformations
-      * methods for removing and selection of outliers
-      * methods for poor quality or missing data
+      * Methods for removing and selection of outliers
+      * Methods for poor quality or missing data
       * Descriptibe statistics
   * Exploratory Analysis
   * Training/Validation Split
