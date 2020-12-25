@@ -24,6 +24,10 @@ Team Members
 * Clinical Relevance of the Model
 * [Acknowledgments](#acknowledgments)
 
-## Problem
+#### Problem
 
-### Our-Solution
+#### Our-Solution
+
+#### Clinical Relevance of the Model
+
+#### Acknowledgments
