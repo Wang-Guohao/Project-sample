@@ -5,7 +5,7 @@ Team Members
 ### Contents
 
 * [Problem](#Problem)
-* [Solution Video] (#Solution-Video)
+* [Solution Video](#Solution-Video)
 * [Our Solution](#Our-Solution)
   * Study Design
      * Identify clinical goal (Predict Cancer Onset)
