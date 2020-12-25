@@ -4,6 +4,7 @@ Team Members
 
 ### Contents
 
+* Solution Video
 * [Problem](#Problem)
 * [Our Solution](#Our-Solution)
   * Study Design
@@ -21,7 +22,7 @@ Team Members
   * Model Training ( XGBoost, Logistic Regression AUC performance metric)
   * Validation Strategies
   * Results & Model Performance
-* Clinical Relevance of the Model
+* [Clinical Relevance of the Model] (#Clinical Relevance of the Model)
 * [Acknowledgments](#acknowledgments)
 
 #### Problem
