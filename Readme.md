@@ -2,7 +2,7 @@
 
 Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 
-Link to AIM Datathon: https://www.kaggle.com/c/aimdatathon2020/leaderboard 
+Link to AIM Datathon: https://www.kaggle.com/c/aimdatathon2020/leaderboard <br>
 Link to Google Collab Notebook: https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing
 ### Contents
 
