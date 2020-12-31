@@ -1,6 +1,6 @@
 ### Project Title: Decision Support Systems in Oncology
 
-Team Members: FirstName LastName, 
+Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 
 ### Contents
 
