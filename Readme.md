@@ -1,4 +1,4 @@
-### Project Title: Decision Support Systems in Oncology
+### Project Title: Decision Support System in Oncology
 
 Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 
