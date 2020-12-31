@@ -42,10 +42,11 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 -   Identify clinical goal (Prediction of cancer patient survival.)
 -   Define prediction outcome (Predict cancer patient survival for quality review and better clinical decision making.)
 -   Participant inclusion/exclusion criteria 
-(2000 patients with various cancer types were included. A diverse patient population race was involved including whites(1860 [93%]),  African Americans( 88 [4.5%]), American Indians(12 [0.6%]), Asians(7 [0.35% ]),  Alaskan Natives(12 [1% ]), Native Hawaiians(2 [0.15% ]), and from other races(7 [0.45%]). The median age (interquartile range) was 62 (54-70) years old.
-36% of the patients had a paternal history with cancer and the greatest proportion was 10% prostate cancer. 39% of the patients had a maternal history with cancer and the greatest proportion was 11% breast cancer. 
-Out of 785 males,the majority of the tumors were from the prostate gland as the primary site(371 [47.2%]),adenocarcinoma(496 [63%]), grade III: Poorly differentiated , dedifferentiated (369 [47%]), and stage 1 (478[60%]) .
+(2000 patients with various cancer types were included. A diverse patient population race was involved including whites (1860 [93%]),  African Americans (88 [4.5%]), American Indians (12 [0.6%]), Asians (7 [0.35%]),  Alaskan Natives (12 [1%]), Native Hawaiians (2 [0.15%]), and from other races (7 [0.45%]). The median age (interquartile range) was 62 (54-70) years old. Refer to Race subtitle in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+36% of the patients had a paternal history with cancer and the greatest proportion was 10% prostate cancer. 39% of the patients had a maternal history with cancer and the greatest proportion was 11% breast cancer. Refer to Family History subtitle in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Out of 785 males,the majority of the tumors were from the prostate gland as the primary site (371[47.2%]),adenocarcinoma(496 [63%]), grade III: Poorly differentiated , dedifferentiated (369 [47%]), and stage 1 (478[60%]) . 
 Out of 1215 females, the majority of the tumors were from the breast upper outer quadrant primary site(300 [24.69%]), infiltrating duct carcinoma(535 [44%]), grade II: moderately differentiated, intermediate differentiated (522 [43%]), and stage 1 (737 [60%]).
+Refer to Male and Female Primary Site, Histology, Grade and Stage Distribution subtitle in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 
 #### Solution-Video
 
