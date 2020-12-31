@@ -10,10 +10,6 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
   * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
   * Pictogram depicting the solution.
 * [Data Management](#Data-Management)
-  * Data Pre-processing/ Cleansing/Transformations
-  * Methods for removing and selection of outliers
-  * Methods for poor quality or missing data
-  * Descriptive statistics ( Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio ).
 * [Study Design](#Study-Design)
   * Identify clinical goal (Predict Cancer Onset)
   * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
@@ -40,7 +36,10 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 - Link to ML Pipeline Method here.
 
 #### Data-Management
-
+- Data Pre-processing/ Cleansing/Transformations
+- Methods for removing and selection of outliers
+- Methods for poor quality or missing data
+- Descriptive statistics ( Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio ).
 #### Study-Design
 
 #### Solution-Video
