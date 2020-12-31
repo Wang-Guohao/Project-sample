@@ -9,7 +9,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 * [ML Pipeline](#ML-Pipeline)
   * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
   * Pictogram depicting the solution.
-* Data Management 
+* [Data Management](#Data-Management)
   * Data Pre-processing/ Cleansing/Transformations
   * Methods for removing and selection of outliers
   * Methods for poor quality or missing data
@@ -36,6 +36,8 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### ML-Pipeline
+
+#### Data-Management
 
 #### Study-Design
 
