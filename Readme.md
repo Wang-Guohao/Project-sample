@@ -5,23 +5,17 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 ### Contents
 
 * [Problem](#Problem)
-* [Solution](#Solution)
+* [Solution](#Solution) (Clinical Revelance of the Model)
 * [ML Pipeline](#ML-Pipeline)
 * [Data Management](#Data-Management)
 * [Study Design](#Study-Design)
-  * Identify clinical goal (Predict Cancer Onset)
-  * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
-  * Participant inclusion/exclusion criteria (all gender, subset of columns)
 * Exploratory Analysis (add if applicable)
-* Train and Test Data Pre-processing
-* Training/Validation Split
+* Validation Strategies (Train and Test Data Pre-processing, Training/Validation Split)
 * Feature Engineering (add if applicable)
-* Model Training ( XGBoost, Logistic Regression AUC performance metric)
-* Validation Strategies
-* Results & Model Performance
+* Model Training & Tuning (XGBoost, Logistic Regression AUC performance metric)
+* Results & Model Performance & Interpretability
 * [Solution Video](#Solution-Video)
   * Link a short video ( Youtube could work ) that walks through your approach and solution.
-* [Clinical Relevance of the Model](#Clinical_Relevance_of_the_Model)
 * [Acknowledgments](#acknowledgments)
 
 #### Problem
