@@ -37,11 +37,10 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 ![Image](https://github.com/aimsymposium/Project-sample/raw/main/MLpipeline.png)
 
 #### Data-Management
-- Data Pre-processing/ Cleansing/Transformations.      
-( E.g. Changing column names, Merging different data sources, etc. )
+- Data Pre-processing/ Cleansing/Transformations(Changing column names, Merging different data sources, etc). Refer to this subtitle in the [googlecollab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 - Methods for removing and selection of outliers
 - Methods for poor quality or missing data
-- Descriptive statistics ( Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio ).
+- Descriptive statistics(Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio).
 #### Study-Design
 
 #### Solution-Video
