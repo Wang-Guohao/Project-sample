@@ -33,9 +33,11 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 - Physcians are overwhlemed with patient cancer data, and would benefit from a system that outlined indiviaulized patients risk factors based  patient's background like gender, date of birth, enthicity aswell as familial history, primiary site, cancer stage and grading to augment their clinical decision making. 
 
 #### Solution
-A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
+- A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### ML-Pipeline
+- Insert ML WorkFlow here.
+- Link to ML Pipeline Method here.
 
 #### Data-Management
 
