@@ -37,7 +37,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 ![Image](https://github.com/aimsymposium/Project-sample/raw/main/MLpipeline.png)
 
 #### Data-Management
-- Data Pre-processing/ Cleansing/Transformations
+- Data Pre-processing/ Cleansing/Transformations. E.g. Changing column names, Merging different data sources, etc.
 - Methods for removing and selection of outliers
 - Methods for poor quality or missing data
 - Descriptive statistics ( Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio ).
