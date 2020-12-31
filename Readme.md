@@ -2,6 +2,8 @@
 
 Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 
+Link to AIM Datathon: https://www.kaggle.com/c/aimdatathon2020/leaderboard 
+
 ### Contents
 
 * [Problem](#Problem)
@@ -15,7 +17,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 * Model Training & Tuning (XGBoost, Logistic Regression AUC performance metric)
 * Results & Model Performance & Interpretability
 * [Solution Video](#Solution-Video)
-  * Link a short video ( Youtube could work ) that walks through your approach and solution.
+  * Link a short video (unlisted Youtube link) that walks through your approach from github and code from google collab.
 * [Acknowledgments](#acknowledgments)
 
 #### Problem
