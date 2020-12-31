@@ -12,10 +12,10 @@ Link to Google Collab Notebook: https://colab.research.google.com/drive/1GFtlNPV
 * [Data Management](#Data-Management)
 * [Study Design](#Study-Design)
 * Exploratory Analysis (add if applicable)
-* Validation Strategies (Train and Test Data Pre-processing, Training/Validation Split)
+* [Validation Strategies (Train and Test Data Pre-processing, Training/Validation Split)](#Validation-Strategies)
 * Feature Engineering (add if applicable)
-* Model Training & Tuning (Logistic Regression, XGBoost, AUC performance metric)
-* Results & Model Performance & Interpretability
+* [Model Training & Tuning (Logistic Regression, XGBoost, AUC performance metric)](#Model-Training-&-Tuning)
+* [Results & Model Performance & Interpretability](#Results-&-Model-Performance-&-Interpretability)
 * [Solution Video](#Solution-Video)
   * Link a short video (unlisted Youtube link) that walks through your approach from github and code from google collab.
 * [Acknowledgments](#acknowledgments)
