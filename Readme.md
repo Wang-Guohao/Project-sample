@@ -1,6 +1,6 @@
-### Submission name
+### Project Title: Decision Support Systems in Oncology
 
-Team Members
+Team Members: FirstName LastName, 
 
 ### Contents
 
