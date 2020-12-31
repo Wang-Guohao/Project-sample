@@ -34,6 +34,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 #### ML-Pipeline
 - Insert ML WorkFlow here.
 - Link to ML Pipeline Method here.
+![Image](https://github.com/aimsymposium/Project-sample/raw/main/MLpipeline.png)
 
 #### Data-Management
 - Data Pre-processing/ Cleansing/Transformations
