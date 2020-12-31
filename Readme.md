@@ -6,7 +6,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 
 * [Problem](#Problem)
 * [Solution](#Solution)
-* [ML Pipeline](#ML\ Pipeline)
+* [ML Pipeline](#ML&#32Pipeline)
   * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
   * Pictogram depicting the solution.
 * [Data Management](#Data-Management)
