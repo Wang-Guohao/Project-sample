@@ -28,6 +28,8 @@ Team Members
 * [Acknowledgments](#acknowledgments)
 
 #### Problem
+- Physcians are overwhlemed with patient cancer data, and would benefit from a system that outlined indiviaulized patients risk factors based  patient's background like gender, date of birth, enthicity aswell as familial history, primiary site, cancer stage and grading to augment their clinical decision making. 
+
 
 #### Solution-Video
 
