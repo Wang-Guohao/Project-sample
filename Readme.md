@@ -14,7 +14,7 @@ Link to Google Collab Notebook: https://colab.research.google.com/drive/1GFtlNPV
 * Exploratory Analysis (add if applicable)
 * Validation Strategies (Train and Test Data Pre-processing, Training/Validation Split)
 * Feature Engineering (add if applicable)
-* Model Training & Tuning (XGBoost, Logistic Regression AUC performance metric)
+* Model Training & Tuning (Logistic Regression, XGBoost, AUC performance metric)
 * Results & Model Performance & Interpretability
 * [Solution Video](#Solution-Video)
   * Link a short video (unlisted Youtube link) that walks through your approach from github and code from google collab.
@@ -50,7 +50,21 @@ Out of 1215 females, the majority of the tumors were from the breast upper outer
 
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
+#### Validation-Strategies 
+Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 
-#### Clinical_Relevance_of_the_Model
+-Train and Test Data Pre-processing
+-Training/Validation Split
+
+#### Model Training & Tuning
+Refer to Logistic Regression and XGBoost subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+
+-Logistic Regression
+-XGBoost
+
+#### Results & Model Performance & Interpretability
+Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+
+-Include Summary of Results/Discussion and Picture of Results here.
 
 #### Acknowledgments
