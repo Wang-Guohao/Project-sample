@@ -35,6 +35,10 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 #### Solution
 A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
+#### ML-Pipeline
+
+#### Study-Design
+
 #### Solution-Video
 
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
