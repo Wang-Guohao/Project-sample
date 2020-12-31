@@ -7,8 +7,6 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 * [Problem](#Problem)
 * [Solution](#Solution)
 * [ML Pipeline](#ML-Pipeline)
-  * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
-  * Pictogram depicting the solution.
 * [Data Management](#Data-Management)
 * [Study Design](#Study-Design)
   * Identify clinical goal (Predict Cancer Onset)
@@ -32,10 +30,8 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 - A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### ML-Pipeline
-- Insert ML WorkFlow here.
-- Link to ML Pipeline Method here.
-![Image](https://github.com/aimsymposium/Project-sample/raw/main/MLpipeline.png)
-
+- ML WorkFlow depicting the solution below.![Image](https://github.com/aimsymposium/Project-sample/raw/main/MLpipeline.png)
+- Add a link to your code(Google Colab). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for further details.
 #### Data-Management
 - Data Pre-processing/ Cleansing/Transformations(Changing column names, Merging different data sources, etc). Refer to this subtitle in the [googlecollab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 - Methods for removing and selection of outliers
