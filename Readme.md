@@ -8,7 +8,7 @@ Team Members
 * [Solution Video](#Solution-Video)
   * Link a short video ( Youtube could work ) that walks through your approach and solution.
 * [Our Solution](#Our-Solution)
-  * Add a link to your code ( Google colab )
+  * Add a link to your code ( Google colab ) Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
   * [Study Design](#Study-Design)
      * Identify clinical goal (Predict Cancer Onset)
      * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
