@@ -37,7 +37,7 @@ Team Members
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 #### Our-Solution
-
+A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### Clinical_Relevance_of_the_Model
 
