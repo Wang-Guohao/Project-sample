@@ -5,9 +5,7 @@ Team Members
 ### Contents
 
 * [Problem](#Problem)
-* [Solution Video](#Solution-Video)
-  * Link a short video ( Youtube could work ) that walks through your approach and solution.
-* [Our Solution](#Our-Solution)
+* [Solution](#Solution)
   * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
   * [Study Design](#Study-Design)
      * Identify clinical goal (Predict Cancer Onset)
@@ -24,13 +22,15 @@ Team Members
   * Model Training ( XGBoost, Logistic Regression AUC performance metric)
   * Validation Strategies
   * Results & Model Performance
+* [Solution Video](#Solution-Video)
+  * Link a short video ( Youtube could work ) that walks through your approach and solution.
 * [Clinical Relevance of the Model](#Clinical_Relevance_of_the_Model)
 * [Acknowledgments](#acknowledgments)
 
 #### Problem
 - Physcians are overwhlemed with patient cancer data, and would benefit from a system that outlined indiviaulized patients risk factors based  patient's background like gender, date of birth, enthicity aswell as familial history, primiary site, cancer stage and grading to augment their clinical decision making. 
 
-#### Our-Solution
+#### Solution
 A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### Solution-Video
