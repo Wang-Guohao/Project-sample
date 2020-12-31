@@ -7,6 +7,7 @@ Team Members
 * [Problem](#Problem)
 * [Solution Video](#Solution-Video)
 * [Our Solution](#Our-Solution)
+  * Add a link to your code ( Google colab )
   * [Study Design](#Study-Design)
      * Identify clinical goal (Predict Cancer Onset)
      * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
@@ -34,6 +35,7 @@ Link a short video ( Youtube could work ) that walks through your approach and s
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 #### Our-Solution
+
 
 #### Clinical_Relevance_of_the_Model
 
