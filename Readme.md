@@ -30,14 +30,13 @@ Team Members
 #### Problem
 - Physcians are overwhlemed with patient cancer data, and would benefit from a system that outlined indiviaulized patients risk factors based  patient's background like gender, date of birth, enthicity aswell as familial history, primiary site, cancer stage and grading to augment their clinical decision making. 
 
+#### Our-Solution
+A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### Solution-Video
 
-
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
-#### Our-Solution
-A clinical decision system to help physicians keep track of their patients' progress using their background and individualized molecular level data.
 
 #### Clinical_Relevance_of_the_Model
 
