@@ -28,6 +28,9 @@ Team Members
 #### Problem
 
 #### Solution-Video
+
+Link a short video ( Youtube could work ) that walks through your approach and solution.
+
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 #### Our-Solution
