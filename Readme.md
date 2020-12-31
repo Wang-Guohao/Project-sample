@@ -12,9 +12,10 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
   * Identify clinical goal (Predict Cancer Onset)
   * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
   * Participant inclusion/exclusion criteria (all gender, subset of columns)
-* Exploratory Analysis
+* Exploratory Analysis (add if applicable)
+* Train and Test Data Pre-processing
 * Training/Validation Split
-* Feature Engineering
+* Feature Engineering (add if applicable)
 * Model Training ( XGBoost, Logistic Regression AUC performance metric)
 * Validation Strategies
 * Results & Model Performance
