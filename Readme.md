@@ -38,7 +38,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
 
 #### Data-Management
 - Data Pre-processing/ Cleansing/Transformations.      
-E.g. Changing column names, Merging different data sources, etc.
+( E.g. Changing column names, Merging different data sources, etc. )
 - Methods for removing and selection of outliers
 - Methods for poor quality or missing data
 - Descriptive statistics ( Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio ).
