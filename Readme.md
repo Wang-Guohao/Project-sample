@@ -6,7 +6,6 @@ Team Members
 
 * [Problem](#Problem)
 * [Solution](#Solution)
-  * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
   * [Study Design](#Study-Design)
      * Identify clinical goal (Predict Cancer Onset)
      * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
@@ -16,6 +15,9 @@ Team Members
       * Methods for removing and selection of outliers
       * Methods for poor quality or missing data
       * Descriptibe statistics
+  * [ML Pipeline](#ML-Pipeline)
+    * Add a link to your code ( Google colab ). Refer to this [sample notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing)
+    * Pictogram depicting the solution.
   * Exploratory Analysis
   * Training/Validation Split
   * Feature Engineering
