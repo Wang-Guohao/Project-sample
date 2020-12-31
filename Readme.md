@@ -13,7 +13,7 @@ Team Members: FirstName LastName, FirstName LastName, and FirstName LastName.
   * Data Pre-processing/ Cleansing/Transformations
   * Methods for removing and selection of outliers
   * Methods for poor quality or missing data
-  * Descriptive statistics
+  * Descriptive statistics ( Pairwise correlation, ANNOVA, Univariate Analysis, Odds Ratio ).
 * [Study Design](#Study-Design)
   * Identify clinical goal (Predict Cancer Onset)
   * Define prediction outcome (Identify risk factors for quality review, or clinical decision making)
