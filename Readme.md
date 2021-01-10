@@ -65,7 +65,7 @@ Refer to Logistic Regression and XGBoost subtitles in the [Google Collab noteboo
 
 -XGBoost
 
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/holdout_XGBoost.png
+![Image](https://github.com/aimsymposium/Project-sample/blob/main/holdout_XGBoost.png)
 
 ![Image](https://github.com/aimsymposium/Project-sample/blob/main/kfold_XGBoost.png)
 
