@@ -55,6 +55,12 @@ Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles
 #### Model-Training_and_Tuning
 Refer to Logistic Regression and XGBoost subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 
+#### Results_Model-Performance_and_Interpretability
+Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+
+-Include Summary of Results/Discussion and Picture of Results here.
+
+
 -Logistic Regression
 
 ![Image](https://github.com/aimsymposium/Project-sample/blob/main/LogisiticRegression.PNG)
@@ -63,12 +69,6 @@ Refer to Logistic Regression and XGBoost subtitles in the [Google Collab noteboo
 -XGBoost
 
 ![Image](https://github.com/aimsymposium/Project-sample/blob/main/XGBoost.PNG)
-
-
-#### Results_Model-Performance_and_Interpretability
-Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
-
--Include Summary of Results/Discussion and Picture of Results here.
 
 #### Solution-Video
 
