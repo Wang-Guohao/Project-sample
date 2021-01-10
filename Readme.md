@@ -14,8 +14,8 @@ Link to Google Collab Notebook: https://colab.research.google.com/drive/1GFtlNPV
 * Exploratory Analysis (add if applicable)
 * [Validation Strategies (Train and Test Data Pre-processing, Training/Validation Split)](#Validation-Strategies)
 * Feature Engineering (add if applicable)
-* [Model Training,Tuning (Logistic Regression, XGBoost, AUC performance metric)](#Model-Training,Tuning)
-* [Results,Model Performance,Interpretability](#Results,Model-Performance,Interpretability)
+* [Model Training,Tuning (Logistic Regression, XGBoost, AUC performance metric)](#Model-Training_and_Tuning)
+* [Results,Model Performance,Interpretability](#Results_Model-Performance_and_Interpretability)
 * [Solution Video](#Solution-Video)
   * Link a short video (unlisted Youtube link) that walks through your approach from github and code from google collab.
 * [Acknowledgments](#acknowledgments)
@@ -52,13 +52,13 @@ Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles
 -Train and Test Data Pre-processing
 -Training/Validation Split
 
-#### Model-Training,Tuning
+#### Model-Training_and_Tuning
 Refer to Logistic Regression and XGBoost subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 
 -Logistic Regression
 -XGBoost
 
-#### Results,Model-Performance,Interpretability
+#### Results_Model-Performance_and_Interpretability
 Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 
 -Include Summary of Results/Discussion and Picture of Results here.
