@@ -57,21 +57,12 @@ Refer to Logistic Regression and XGBoost subtitles in the [Google Collab noteboo
 
 -Logistic Regression
 
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/holdout_Logistic%20Regression.png)
+![Image](https://github.com/aimsymposium/Project-sample/blob/main/LogisiticRegression.PNG)
 
-![Image](https://github.com/aimsymposium/Project-sample/raw/main/kfold_Logistic%20Regression.png)
-
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/kfold_stratified_Logistic%20Regression.png)
 
 -XGBoost
 
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/holdout_XGBoost.png)
-
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/kfold_XGBoost.png)
-
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/kfold_stratified_XGBoost.png)
-
-![Image](https://github.com/aimsymposium/Project-sample/blob/main/XGBoost_Feature_Importance.png)
+![Image](https://github.com/aimsymposium/Project-sample/blob/main/XGBoost.PNG)
 
 
 #### Results_Model-Performance_and_Interpretability
