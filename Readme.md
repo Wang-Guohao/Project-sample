@@ -16,6 +16,7 @@ Link to Google Collab Notebook: https://colab.research.google.com/drive/1GFtlNPV
 * Feature Engineering (add if applicable)
 * [Model Training,Tuning (Logistic Regression, XGBoost, AUC performance metric)](#Model-Training_and_Tuning)
 * [Results,Model Performance,Interpretability](#Results_Model-Performance_and_Interpretability)
+* [Conclusion](#Conclusion)
 * [Solution Video](#Solution-Video)
   * Link a short video (unlisted Youtube link) that walks through your approach from github and code from google collab.
 * [Acknowledgments](#acknowledgments)
@@ -85,9 +86,9 @@ B
 C
 D
 
-#### Concluson
+#### Conclusion
 
-
+XGBoost accuracy on test dataset was 76.9%.
 
 #### Solution-Video
 
