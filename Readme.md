@@ -32,6 +32,7 @@ Link to Google Collab Notebook: https://colab.research.google.com/drive/1GFtlNPV
 #### Data-Management
 Refer to Data Pre-Processing subtitle in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 - Data Pre-processing/ Cleansing/Transformations(Changing column names, Merging different data sources, etc). 
+1) Merge Train and Test. 2) Change column names to lowercase. 
 - Methods for removing and selection of outliers
 - Methods for poor quality or missing data
 - Descriptive statistics(Pairwise correlation, ANOVA, Univariate Analysis, Odds Ratio).
@@ -50,10 +51,15 @@ Out of 1215 females, the majority of the tumors were from the breast upper outer
 Refer to Train and Test Data Pre-processing, Training/Validation Split subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
 
 -Train and Test Data Pre-processing
+1) Encoding Categorical COlums. 2) Fill NaNs. 3) Drop columns.
+
 -Training/Validation Split
+80 % - 20 %  Split was used.
 
 #### Model-Training_and_Tuning
 Refer to Logistic Regression and XGBoost subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
+Hyperparameters
+Tuning
 
 #### Results_Model-Performance_and_Interpretability
 Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.research.google.com/drive/1GFtlNPVoSZ1RHcb2DvUzaLY8mEgdqeAV?usp=sharing) for more detail. 
@@ -65,10 +71,23 @@ Refer to Results,.... subtitles in the [Google Collab notebook](https://colab.re
 
 ![Image](https://github.com/aimsymposium/Project-sample/blob/main/LogisiticRegression.PNG)
 
+A
+B
+C
+D
 
 -XGBoost
 
 ![Image](https://github.com/aimsymposium/Project-sample/blob/main/XGBoost.PNG)
+
+A
+B
+C
+D
+
+####Concluson
+
+
 
 #### Solution-Video
 
